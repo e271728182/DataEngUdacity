@@ -2,7 +2,7 @@
 # Description of Facts and Dimension Tables
 <br>
 <br>
-##Fact Table
+## Fact Table <br>
 **songplays** - records in log data associated with song plays i.e. records with page NextSong
 <br>songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
 <br>
